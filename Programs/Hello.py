@@ -1,17 +1,9 @@
-# Python program to illustrate
-# pickle.loads()
-import pickle
-import pprint
+# Author: PANDIT DANDGULE
+# This program prints the entered message
 
-data1 = [{'a': 'A', 'b': 2, 'c': 3.0}]
-print('BEFORE:',)
-pprint.pprint(data1)
+def justPrint(text):
+    '''This function prints the text passed as argument to this function'''
+    print(text)
 
-data1_string = pickle.dumps(data1)
-
-data2 = pickle.loads(data1_string)
-print('AFTER:',)
-pprint.pprint(data2)
-
-print('SAME?:', (data1 is data2))
-print('EQUAL?:', (data1 == data2))
+if __name__ == '__main__':
+    justPrint('Hello')
