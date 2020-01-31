@@ -36,3 +36,23 @@ https://www.youtube.com/watch?v=6L3HNyXEais
 
 https://www.codementor.io/@adityamalviya/python-flask-mysql-connection-rxblpje73  #Flask MySQL Connection
 https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one  #CURD application with Flask
+
+
+        FLASK + ML Deployment
+https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4
+https://github.com/tanujjain/deploy-ml-model/blob/master/Model_training.ipynb
+https://github.com/sauravk90/ML-Model-Flask-Deployment
+https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
+https://github.com/pratos/flask_api/blob/master/notebooks/ML%2BModels%2Bas%2BAPIs%2Busing%2BFlask.md
+https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/
+https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7
+https://medium.com/datadriveninvestor/deploy-your-machine-learning-model-using-flask-made-easy-now-635d2f12c50c
+https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c
+https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/
+https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166
+https://medium.com/@emmapraise/deploying-your-machine-learning-model-as-a-rest-api-using-flask-c2e6a0b574f5
+https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
+https://developer.ibm.com/tutorials/deploy-a-python-machine-learning-model-as-a-web-service/
+https://blog.paperspace.com/deploying-deep-learning-models-flask-web-python/
+https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
+
