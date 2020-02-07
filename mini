@@ -57,3 +57,10 @@ https://blog.paperspace.com/deploying-deep-learning-models-flask-web-python/
 https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
 
 https://github.com/gn03249822/Python-GUI-Bookstore #mini projects
+
+#How to create Setup file
+https://packaging.python.org/tutorials/packaging-projects/
+https://www.jetbrains.com/help/pycharm/creating-and-running-setup-py.html
+https://docs.python.org/3/distutils/setupscript.html
+https://cets.seas.upenn.edu/answers/install-python-module.html           #how to run setup file
+https://stackoverflow.com/questions/1471994/what-is-setup-py              #what is setup.py
