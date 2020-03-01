@@ -1,6 +1,7 @@
 https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
 https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
 https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d
+https://medium.com/analytics-vidhya/training-your-own-sentiment-analyzer-with-spacy-9b924df1514c
 
 ### NLP Interview
 https://analyticsindiamag.com/11-most-commonly-asked-nlp-interview-questions-for-beginners/
@@ -20,3 +21,32 @@ tokenization,POS tagging and parsing and how they work at a low level
 7)Experience with open-source ML/math toolkits such as scikit-learn, MLlib, Theano, NumPy,
 etc.
 8)Experience with noisy and/or unstructured textual data (e.g. tweets)
+
+###Text Preprocessing and Normlizatin Techniques
+https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
+https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
+https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html
+https://medium.com/analytics-vidhya/learn-how-to-use-spacy-for-natural-language-processing-661805d3abae
+https://realpython.com/python-keras-text-classification/
+https://medium.com/@bedigunjit/simple-guide-to-text-classification-nlp-using-svm-and-naive-bayes-with-python-421db3a72d34
+https://stackabuse.com/text-classification-with-python-and-scikit-learn/
+
+https://nlpforhackers.io/complete-guide-to-spacy/
+https://www.kaggle.com/bittlingmayer/amazonreviews
+https://www.kaggle.com/josh24990/deep-learning-for-sentiment-analysis-top-25 
+https://www.kaggle.com/chiranjeevbit/movie-review-prediction
+https://mahadev001.github.io/Mahadev-Upadhyayula/Sentiment%20Analysis%20via%20NLP/Sentiment%20Analysis%20using%20NLP%20with%20Spacy%20and%20%20SVM.html
+
+###Entity Extraction
+https://confusedcoders.com/data-science/deep-learning/how-to-create-custom-ner-in-spacy
+https://towardsdatascience.com/custom-named-entity-recognition-using-spacy-7140ebbb3718
+https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy
+https://www.javacodemonk.com/named-entity-recognition-spacy-flask-api-1678a5df
+
+
+###Document Classification
+https://www.kaggle.com/poonaml/text-classification-using-spacy
+https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
+https://hackernoon.com/summarization-with-wine-reviews-using-spacy-b49f18399577
+https://www.kaggle.com/niyamatalmass/texts-summarizing-with-the-help-of-spacy
+https://github.com/KevinPike/spacy-summary
