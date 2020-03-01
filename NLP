@@ -1,6 +1,22 @@
 https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
+https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
+https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d
 
 ### NLP Interview
 https://analyticsindiamag.com/11-most-commonly-asked-nlp-interview-questions-for-beginners/
 https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
 https://onlinecoursetutorials.com/interview-questions/natural-language-processing-interview-questions-and-answers/
+
+### NLP Expertise
+1)Expertise in at least 3 of the following: Sentiment Analysis, Entity Extraction, Document
+Classification, Topic Modeling, Natural Language Understanding (NLU) and Natural
+Language Generation (NLG).
+2) Strong understanding of text pre-processing and normalization techniques, such as
+tokenization,POS tagging and parsing and how they work at a low level
+3)Good understanding of linguistics and language as a phenomenon.
+4) Strong interest in, and knowledge of Artificial Intelligence and its subfields
+5)Experience with Deep Learning and Word Embeddings
+6)Experience with open-source NLP toolkits such as Spacy, NLTK, gensim etc.
+7)Experience with open-source ML/math toolkits such as scikit-learn, MLlib, Theano, NumPy,
+etc.
+8)Experience with noisy and/or unstructured textual data (e.g. tweets)
