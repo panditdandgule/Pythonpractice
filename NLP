@@ -40,19 +40,19 @@ https://mahadev001.github.io/Mahadev-Upadhyayula/Sentiment%20Analysis%20via%20NL
 ###Entity Extraction
 https://confusedcoders.com/data-science/deep-learning/how-to-create-custom-ner-in-spacy
 https://towardsdatascience.com/custom-named-entity-recognition-using-spacy-7140ebbb3718
-https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy
 https://www.javacodemonk.com/named-entity-recognition-spacy-flask-api-1678a5df
 
 
 ###Document Classification
 https://www.kaggle.com/poonaml/text-classification-using-spacy
 https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
-https://hackernoon.com/summarization-with-wine-reviews-using-spacy-b49f18399577
 https://www.kaggle.com/niyamatalmass/texts-summarizing-with-the-help-of-spacy
 https://github.com/KevinPike/spacy-summary
 
-###Projects
 https://github.com/ines/spacy-course/tree/master/exercises
+###Projects
+https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy
+https://hackernoon.com/summarization-with-wine-reviews-using-spacy-b49f18399577
 https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
 https://github.com/NirantK/awesome-project-ideas
 https://www.kaggle.com/getting-started/51445
