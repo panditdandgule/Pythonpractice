@@ -51,6 +51,7 @@ https://github.com/KevinPike/spacy-summary
 
 https://github.com/ines/spacy-course/tree/master/exercises
 ###Projects
+https://github.com/allenai/scispacy  ###Most prefare
 https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy
 https://hackernoon.com/summarization-with-wine-reviews-using-spacy-b49f18399577
 https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
@@ -58,7 +59,13 @@ https://github.com/NirantK/awesome-project-ideas
 https://www.kaggle.com/getting-started/51445
 https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/
 
-https://github.com/allenai/scispacy  ###Most prefare
+####Flask Projects+NLP
+https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
+https://blog.usejournal.com/web-development-of-nlp-model-in-python-deployed-in-flask-efc84be37f9a
+https://www.kdnuggets.com/2019/04/building-flask-api-automatically-extract-named-entities-spacy.html
+https://github.com/pemagrg1/NLP-Flask-Website
+https://github.com/StatguyUser
+https://realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/
 
 Text mining
 Story Understanding System
