@@ -1,3 +1,10 @@
+####Target
+1) Expertise in at least 3 of the following: Sentiment Analysis, Entity Extraction, Document
+Classification, Topic Modeling, Natural Language Understanding (NLU) and Natural
+Language Generation (NLG).
+2)Strong understanding of text pre-processing and normalization techniques, such as
+tokenization,POS tagging and parsing and how they work at a low level.
+
 https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
 https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
 https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d
