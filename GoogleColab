@@ -1,0 +1,14 @@
+https://colab.research.google.com/notebooks/intro.ipynb
+
+
+How to download dataset through kaggle
+
+1. Login Kaggle->Go to profile->Account(Near Disscusion tab)->API(Create API)->JSON FILE will create
+2. Google colab->File-->new notebook->Go to Files->smapl data->Upload kaggle.json file
+3. !pip install -q kaggle
+4. !mkdir -p ~/.kaggle #create folder
+5. !cp kaggle.json ~/.kaggle #file will be inside folder
+6. !chmod 600 ~/.kaggle/kaggle.json
+7. !kaggle competitions download -c dogs-vs-cats  #download whatever data reuqired
+8. If you want to download other datasets
+  !kaggle datasets list
